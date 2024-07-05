@@ -1,0 +1,4 @@
+ID;Nome;Idade;Telefone;Email
+1;Ana;30;123456789;ana@example.com
+2;Bruno;25;987654321;bruno@example.com
+3;Carlos;35;555555555;carlos@example.com
