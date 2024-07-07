@@ -1,3 +1,6 @@
 /**/.venv
 /**/__pycache__
 /**/.ipynb_checkpoints
+/**/consolidacao_metadados.csv
+/**/consolidacao_detalhes.csv
+/**/layout_modelo.json
