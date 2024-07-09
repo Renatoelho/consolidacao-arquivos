@@ -1,0 +1,28 @@
+CPF;Cargo;Departamento;Email;Empresa;Endereco;Estado;ID;Idade;Nome;Projeto;Salario;Status;Telefone
+;;;;;;;1;30;Ana;;5000;;
+;;;;;;;2;25;Bruno;;4000;;
+;;;;;;;3;35;Carlos;;7000;;
+;;;;;;;1;30;Ana;Projeto X;;Ativo;
+;;;;;;;2;25;Bruno;Projeto Y;;Inativo;
+;;;;;;;3;35;Carlos;Projeto Z;;Inativo;
+;Gerente;;;;;;1;30;Ana;;;;
+;Analista;;;;;;2;25;Bruno;;;;
+;Diretor;;;;;;3;35;Carlos;;;;
+;;;;;Rua A, 123;SP;1;30;Ana;;;;
+;;;;;Avenida B, 456;RJ;2;25;Bruno;;;;
+;;;;;Travessa C, 789;MG;3;35;Carlos;;;;
+;;;;;;;1;30;Ana;Projeto SWD;;Inativo;
+;;;;;;;2;25;Bruno;Projeto YQS;;Inativo;
+;;;;;;;3;35;Carlos;Projeto ZAQ;;Ativo;
+;;;ana@example.com;;;;1;30;Ana;;;;123456789
+;;;bruno@example.com;;;;2;25;Bruno;;;;987654321
+;;;carlos@example.com;;;;3;35;Carlos;;;;555555555
+111.111.111-11;;;;;;;1;30;Ana;;;;
+222.222.222-22;;;;;;;2;25;Bruno;;;;
+333.333.333-33;;;;;;;3;35;Carlos;;;;
+;;RH;;;;;1;30;Ana;;;;
+;;TI;;;;;2;25;Bruno;;;;
+;;Finanças;;;;;3;35;Carlos;;;;
+;;;;Empresa A;;;1;30;Ana;;;;
+;;;;Empresa B;;;2;25;Bruno;;;;
+;;;;Empresa C;;;3;35;Carlos;;;;
