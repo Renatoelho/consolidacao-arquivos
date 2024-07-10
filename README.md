@@ -3,7 +3,6 @@
 
 Este projeto visa a consolidação de arquivos de múltiplas extensões, como ***.xlsx***, ***.txt***, ***.csv*** e ***.json***, cujos layouts são completamente diferentes, em uma única OBT (***One Big Table***). Utilizando a linguagem Python e bibliotecas como ***Pandas***, ***DuckDB***, ***Pydantic*** e ***Jupyter***, o projeto automatiza o processo de leitura, transformação e unificação dos dados. As etapas envolvem o mapeamento dos ***metadados***, onde os ***detalhes*** específicos de cada arquivo são identificados e definidos; a ***estruturação*** dos dados, que garante a conformidade e integridade das informações; e a ***consolidação*** final, onde todos os dados são integrados em uma base única e coerente. O resultado é uma base consolidada e um processo ***automatizado*** eficiente e escalável, facilitando a ***análise*** e o gerenciamento dos dados.
 
-...
 
 <!--
 https://www.youtube.com/@renato-coelho
