@@ -3,6 +3,9 @@
 /**/.ipynb_checkpoints
 /**/consolidacao_metadados.csv
 /**/consolidacao_detalhes.csv
+/**/consolidacao_estruturacao.csv
+/**/consolidacao_final.csv
 /**/layout_modelo.json
 /**/jsonshema_modelo.json
 /**/notebooks/modelo
+/**/tmp/jsons
